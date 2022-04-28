@@ -1,0 +1,13 @@
+.custom ul a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(26, 177, 101);
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+ul li:hover {
+  background-color: #ddd;
+}
